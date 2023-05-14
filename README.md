@@ -3,7 +3,7 @@
 Projeto desenvolvido com HTML e CSS abordando conceitos de responsividade 
 com media queries.
 
-🔗 [Click here to access](https://n4ju15.github.io/)
+🔗 [Click here to access](https://n4ju15.github.io/home-instagram/)
 
 ### Versão para Desktop
 
